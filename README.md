@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Haryor 👋
 
-<!--
-**haywhy42/haywhy42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity student at TS Academy, based in Nigeria — started from zero and building up from the fundamentals.
 
-Here are some ideas to get you started:
+🔐 Currently learning:
+- Networking (Cisco NetAcad) and Linux fundamentals
+- Practical pentesting with TryHackMe, Kali Linux, Wireshark, Burp Suite, and Metasploit
+- Now starting Cloud Computing, following the learntocloud.guide roadmap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goal: build a strong foundation in cybersecurity and cloud, and eventually work in cloud security.
+
+🛠️ Tools I'm using: Kali Linux, VirtualBox, Cisco Packet Tracer, Wireshark, Burp Suite, Metasploit
+
+📌 This profile will grow as I document projects and progress — thanks for stopping by!
